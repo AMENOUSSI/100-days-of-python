@@ -1,26 +1,5 @@
-# name = input("What is your name?")
-# print(name)
-#
-# print(len(name))
+print("Welcome to the Band Name Generator.")
+city = input("What's the name of the city you grew up in?\n")
+petname = input("What's your pet's name?\n")
 
-# username = input("What's your name?")
-# length = len(username)
-# print(length)
-
-# Variables challenge
-glass1 = "milk"
-glass2 = "juice"
-
-# Before
-print("The content of the first glass is: " + glass1)
-print("The content of the second glass is:" + glass2)
-
-# After altering the content
-
-temp = glass1
-glass1 = glass2
-glass2 = temp
-
-print("==========================")
-print(glass1)
-print(glass2)
+print("Your Band name could be " + city + " " + petname)
