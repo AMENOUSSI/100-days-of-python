@@ -1,4 +1,4 @@
-# 🐍 100 Days of Python
+# 100 Days of Python
 
 ## About this repository
 
@@ -6,38 +6,45 @@ This repository documents my journey through the **100 Days of Code: The Complet
 
 My goal is to strengthen my Python programming skills through consistent practice, hands-on exercises, and practical projects.
 
-## 📚 Learning Progress
+## Learning Progress
 
-| Day | Topics | Project / Exercise |
-|---|---|---|
-| 01 | Printing, variables, strings, user input | Band Name Generator |
-| 02 | Data types and mathematical operations | Tip Calculator |
-| 03 | Conditional statements and logic | Treasure Island |
-| 04 | Randomisation and lists | Rock Paper Scissors |
-| 05 | For loops, `range()`, working with lists | Highest Score, Password Generator |
-| 06 | Functions | Function practice |
-| 07 | Applying programming concepts | Hangman |
-| 08 | Functions with inputs, positional and keyword arguments | Caesar Cipher |
-| 09 | Dictionaries and data manipulation | Grading Program |
+| Day | Topics                                                  | Project / Exercise                |
+| --- | ------------------------------------------------------- | --------------------------------- |
+| 01  | Printing, variables, strings, user input                | Band Name Generator               |
+| 02  | Data types and mathematical operations                  | Tip Calculator                    |
+| 03  | Conditional statements and logic                        | Treasure Island                   |
+| 04  | Randomisation and lists                                 | Rock Paper Scissors               |
+| 05  | For loops, `range()`, working with lists                | Highest Score, Password Generator |
+| 06  | Functions                                               | Function practice                 |
+| 07  | Applying programming concepts                           | Hangman                           |
+| 08  | Functions with inputs, positional and keyword arguments | Caesar Cipher                     |
+| 09  | Dictionaries and data manipulation                      | Grading Program                   |
+| 10  | Functions with outputs                                  | Leap Year, Calculator project     |
+| 11  | Functions with multiple return                          | The Blackjack Capstone Project    |
+| 12  | Scope in python                                         | Number Guessing Game              |
+| 13  | Debugging: How to Find and Fix Errors in my code        | Debugging Odd or Even project     |
+| 14  | Practising on functions                                 | Higher Lower Game Project         |
+| 15  | Intermediate - Local Development Environnemnt Setup     | Coffee Machine project part 1           |
+| 16  | OOP                                                     | Coffee Machine project part 2                                 |
+| 17  | Class, Attributes, Constructors and Methods in python   | Quiz Project                                                              |
 
+_This table records the topics and projects I have covered so far. I will update it as I progress._
 
-*This table records the topics and projects I have covered so far. I will update it as I progress.*
-
-## 🧠 Key Takeaways
+## Key Takeaways
 
 - Understanding how variables, loops, conditionals, and functions work together.
 - Learning to manipulate lists and dictionaries.
 - Practising problem-solving through programming challenges.
 - Developing the habit of researching, debugging, and learning independently.
 
-## 🎯 My Goals
+## My Goals
 
 - Complete the 100-day learning journey.
 - Build practical Python projects.
 - Strengthen my problem-solving skills.
 - Apply Python to data analysis, Data Engineering, and Artificial Intelligence.
 
-## 🚀 Learning in Public
+## Learning in Public
 
 I will continue documenting my progress, sharing lessons learned, and improving my projects as I advance.
 
